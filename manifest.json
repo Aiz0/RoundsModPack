@@ -1,8 +1,8 @@
 {
-    "name": "Anarchy Rounds",
+    "name": "Aiz's Simple Modpack",
     "version_number": "0.0.0",
     "website_url": "https://github.com/Aiz0/RoundsModPack",
-    "description": "Modpack",
+    "description": "A simple modpack that aims to avoid all the complicated stuff.",
     "dependencies": [
         "olavim-RoundsWithFriends-2.2.1",
         "Pykess-Pick_N_Cards-0.2.6",

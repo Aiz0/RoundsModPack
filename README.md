@@ -1,7 +1,12 @@
-# Rounds Mod Pack
+# Aiz's Simple Modpack
+
+A simple modpack that aims to avoid all the complicated stuff.
+
+No classes or complicated cards.
+
+No new gamemodes or all that other stuff that bugs the game.
 
 ## Modlists
-
 
 ### Gameplay altering
 | Name          | Description               |
