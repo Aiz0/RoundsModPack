@@ -9,4 +9,4 @@
 | AllThePatch   | Collection of bug fixes |
 | BudsMaps      | Map Pack |
 | KingCookedBread Map Pack | Map Pack |
-
+| BudsCards     | Card Pack|
