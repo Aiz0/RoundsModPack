@@ -4,11 +4,10 @@
 
 
 ### Gameplay altering
-| Name          | Description               | Notes         |
-|---------------|---------------------------|---------------|
+| Name          | Description               |
+|---------------|---------------------------|
 | PickNCards    | Pick more cards per round.|
-| SetRounds     | Set the amount of rounds per game and points per round. | This mod depends on Rounds with Friends. |
-
+| SetRounds     | Set the amount of rounds per game and points per round. |
 
 ### Fixes and patches
 

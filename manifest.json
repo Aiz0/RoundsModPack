@@ -4,6 +4,7 @@
     "website_url": "https://github.com/Aiz0/RoundsModPack",
     "description": "Modpack",
     "dependencies": [
+        "olavim-RoundsWithFriends-2.2.1",
         "Pykess-Pick_N_Cards-0.2.6",
         "Ascyst-SetRounds-1.2.4",
         "RoundsModding-AllThePatch-1.0.0",
