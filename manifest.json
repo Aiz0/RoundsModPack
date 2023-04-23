@@ -1,0 +1,10 @@
+{
+    "name": "Anarchy Rounds",
+    "version_number": "0.0.0",
+    "website_url": "https://github.com/Aiz0/RoundsModPack",
+    "description": "Modpack",
+    "dependencies": [
+        "Pykess-Pick_N_Cards-0.2.6",
+        "Ascyst-SetRounds-1.2.4"
+    ]
+}
