@@ -1,6 +1,6 @@
 {
     "name": "Aiz's Simple Modpack",
-    "version_number": "0.0.0",
+    "version_number": "0.1.0",
     "website_url": "https://github.com/Aiz0/RoundsModPack",
     "description": "A simple modpack that aims to avoid all the complicated stuff.",
     "dependencies": [
