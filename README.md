@@ -12,17 +12,18 @@
 
 ### Fixes and patches
 
-| Name          | Description               | Notes         |
+| Name          | Description               |
+|---------------|---------------------------|
 | AllThePatch   | Collection of bug fixes.  |
 
 ### Maps
 
-| Name          | Description               | Notes         |
-|---------------|---------------------------|---------------|
+| Name          | Description               |
+|---------------|---------------------------|
 | BudsMaps      |  Adds 21 Maps.            |
 | KingCookedBread Map Pack | Adds 18 Maps.  |
 
 ### Cards
-| Name          | Description               | Notes         |
-|---------------|---------------------------|-------------- |
+| Name          | Description               |
+|---------------|---------------------------|
 | BudsCards     | Adds 19 animated cards.   |
