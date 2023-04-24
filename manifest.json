@@ -1,9 +1,11 @@
 {
     "name": "AizSimpleModpack",
-    "version_number": "0.1.0",
+    "version_number": "0.1.1",
     "website_url": "https://github.com/Aiz0/RoundsModPack",
     "description": "A simple modpack that aims to avoid all the complicated stuff.",
     "dependencies": [
+        "BepInEx-BepInExPack_ROUNDS-5.4.1900",
+        "willis81808-UnboundLib-3.2.10",
         "olavim-RoundsWithFriends-2.2.1",
         "Pykess-Pick_N_Cards-0.2.6",
         "Ascyst-SetRounds-1.2.4",
